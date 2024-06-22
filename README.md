@@ -1,2 +1,1 @@
-# KASIR
-zainulrosikin
+# kasir
